@@ -1,0 +1,10 @@
+Package: prog2.o
+Version: 1.0
+Section: unknown
+Priority: optional
+Depends: libc6
+Architecture: amd64
+Essential: no
+Installed-Size: 16
+Maintainer: use1e5s  <18_ilia_08_2002@mail.ru>
+Description: Programm 2 from Lecture 2
